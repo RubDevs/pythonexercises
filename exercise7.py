@@ -1,0 +1,3 @@
+# Given a list return a new list with only even elements
+a = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100]
+print([element for element in a if element % 2 == 0])
