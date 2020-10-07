@@ -1,5 +1,7 @@
 import datetime
 
+# Ask user for his name and age and return a message with the year when user is going to be 100 years old.
+
 
 def consultar_datos():
     nombre = input("Cual es tu nombre? ")
@@ -19,5 +21,5 @@ def printyear(nombre, edad):
     print(mensaje*times)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     consultar_datos()
