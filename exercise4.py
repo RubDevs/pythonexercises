@@ -1,4 +1,5 @@
-# Ask the user for a number and then print a list of all numbers that divides evenly the given number
+# Ask the user for a number and then print a list of all numbers that divides evenly
+# the given number
 
 
 def consultar():
